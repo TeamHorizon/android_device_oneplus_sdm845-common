@@ -100,3 +100,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # Touch
 PRODUCT_PROPERTY_OVERRIDES += \
     persist.vendor.qti.inputopts.enable=true
+
+# CNE
+PRODUCT_PROPERTY_OVERRIDES += \
+    persist.vendor.cne.feature=1
