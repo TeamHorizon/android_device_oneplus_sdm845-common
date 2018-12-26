@@ -60,7 +60,8 @@ PRODUCT_PACKAGES_DEBUG += \
 
 # Camera
 PRODUCT_PACKAGES_DEBUG += \
-    CameraPackage
+    CameraPackage \
+    Snap
 
 # Common init scripts
 PRODUCT_PACKAGES += \
